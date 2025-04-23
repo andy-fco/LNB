@@ -1,0 +1,11 @@
+package lnb;
+
+public class Persona {
+	
+	private String nobmre;
+	private String apellido;
+	
+	
+	
+	
+}

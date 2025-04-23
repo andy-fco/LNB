@@ -1,0 +1,8 @@
+package lnb;
+
+public class Admin extends Persona{
+
+	private String id;
+	private String pass;
+	
+}
